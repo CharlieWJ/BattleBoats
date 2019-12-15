@@ -14,4 +14,3 @@ Thank you very much.
 Best,
 Charlie
 
-(Note: Improvments are still being made)
